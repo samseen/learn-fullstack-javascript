@@ -1,0 +1,19 @@
+{
+  "name": "fulljs",
+  "version": "1.0.0",
+  "description": "Learning Fullstack JavaScript Development: MongoDB, Node.js and React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samseen/learn-fullstack-javascript.git"
+  },
+  "author": "Samson Akanbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samseen/learn-fullstack-javascript/issues"
+  },
+  "homepage": "https://github.com/samseen/learn-fullstack-javascript#readme"
+}
