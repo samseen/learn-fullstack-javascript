@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/samseen/learn-fullstack-javascript/issues"
   },
-  "homepage": "https://github.com/samseen/learn-fullstack-javascript#readme"
+  "homepage": "https://github.com/samseen/learn-fullstack-javascript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
