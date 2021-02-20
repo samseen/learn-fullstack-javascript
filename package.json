@@ -4,7 +4,7 @@
   "description": "Learning Fullstack JavaScript Development: MongoDB, Node.js and React.js",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-nod server.js --ignore public/",
+    "start": "nodemon --exec babel-node server.js --ignore public/",
     "dev": "webpack -wd"
   },
   "repository": {
@@ -16,6 +16,7 @@
   "bugs": {
     "url": "https://github.com/samseen/learn-fullstack-javascript/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/samseen/learn-fullstack-javascript#readme",
   "dependencies": {
     "express": "^4.17.1",
